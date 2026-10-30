@@ -1,95 +1,155 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:7C3AED&height=220&section=header&text=JAI%20AHUJA&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Student%20Developer%20%7C%20Python%20%7C%20Full-Stack%20Learning&descAlignY=59&descSize=17" alt="Jai Ahuja — Student Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:070B1A,35:15234C,70:4731A5,100:9966FF&text=JAI%20AHUJA&fontColor=FFFFFF&fontSize=64&fontAlignY=39&desc=STUDENT%20DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20LEARNER&descAlignY=60&descSize=16&animation=fadeIn" alt="Jai Ahuja — Student Developer" width="100%" />
 
-### Hey, I'm Jai 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=9B8CFF&center=true&vCenter=true&width=700&lines=Learning+Python+%26+Software+Engineering;Building+with+HTML%2C+CSS+%26+JavaScript;Solving+Problems+One+Project+at+a+Time" alt="Animated developer introduction" /></a>
 
-**Learning to turn ideas into useful software.**
+<br/>
 
-I'm a student developer exploring **Python, web development, and software engineering**. I like understanding how things work, fixing problems, and building projects that make me a better developer.
-
-[![GitHub](https://img.shields.io/badge/GitHub-jaiahuja052--ops-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaiahuja052-ops)
-[![OrderOps PR](https://img.shields.io/badge/OrderOps-View%20Contribution-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunitazenith07-lang/OrderOps-Open-Source-Evaluation/pull/21)
-
-</div>
-
----
-
-### ✦ A little about me
-
-- 🎓 **Student developer** learning through practical projects
-- 🐍 Currently strengthening my **Python** and problem-solving skills
-- 🌐 Exploring **HTML, CSS, JavaScript, and full-stack development**
-- 🛠️ Practicing **Git, GitHub, debugging, and testing**
-- 💡 Interested in **real-world problems, product ideas, and startups**
-
-### ✦ Tech I'm working with
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&perline=7" alt="Python, HTML, CSS, JavaScript, Git, GitHub and VS Code" />
+<a href="https://github.com/jaiahuja052-ops"><img src="https://img.shields.io/badge/GitHub-My%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="My GitHub projects"></a>
+<a href="https://github.com/jaiahuja052-ops/My-portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio repository"></a>
+<a href="https://github.com/sunitazenith07-lang/OrderOps-Open-Source-Evaluation/pull/21"><img src="https://img.shields.io/badge/Open%20Source-OrderOps%20PR-2563EB?style=for-the-badge&logo=git&logoColor=white" alt="OrderOps contribution"></a>
 
 </div>
 
-### ✦ Featured work
+<br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="62%" valign="top">
 
-**🍔 OrderOps — Order & Refund Reconciliation**
+### ✨ About me
 
-A Python project focused on order events, cancellations, refund safety, and reconciliation.
+Hey! I'm **Jai**, a student developer exploring the craft of building software.
 
-- Duplicate-event prevention
-- Refund validation and limits
-- Reconciliation of amounts and statuses
-- **217 visible tests passed locally**
-
-[**View project →**](https://github.com/jaiahuja052-ops/OrderOps-Open-Source-Evaluation) · [**View pull request →**](https://github.com/sunitazenith07-lang/OrderOps-Open-Source-Evaluation/pull/21)
+- 🐍 Learning **Python** and practical problem solving
+- 🌐 Building foundations in **HTML, CSS & JavaScript**
+- 🧩 Exploring **software engineering, Git and testing**
+- 💡 Curious about **startups, useful products and new ideas**
+- 🚀 Focused on **learning by making real projects**
 
 </td>
-<td width="50%" valign="top">
+<td width="38%" valign="top">
 
-**🌐 Web Development Projects**
+### ⚡ Quick snapshot
 
-My repositories as I explore frontend design, layouts, and web development.
-
-- HTML & CSS foundations
-- JavaScript practice
-- Building and improving projects
-
-[**My Portfolio →**](https://github.com/jaiahuja052-ops/My-portfolio) · [**Full-Stack Repository →**](https://github.com/jaiahuja052-ops/full-stack)
+```yaml
+name: Jai Ahuja
+role: Student Developer
+currently: Python + Web Dev
+interests:
+  - Problem Solving
+  - Open Source
+  - Product Building
+motto: Keep building.
+```
 
 </td>
 </tr>
 </table>
 
-### ✦ How I approach a project
-
-```text
-Understand the problem
-        ↓
-Break it into smaller steps
-        ↓
-Build and test
-        ↓
-Review, learn, improve
-```
-
-### ✦ What I'm learning next
-
-- Writing more reliable and readable Python
-- Building interactive web pages with JavaScript
-- Understanding software design and working with GitHub
-- Turning practical ideas into working prototypes
-
 ---
+
+<h3 align="center">🛠️ Tools & Technologies</h3>
 
 <div align="center">
 
-**Small steps. Better code. Every day.**
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark&perline=7" alt="Python, HTML, CSS, JavaScript, Git, GitHub and VS Code skill icons" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:312E81,100:0F172A&height=100&section=footer" alt="" width="100%" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Focus-Python-0F172A?style=flat-square&logo=python&logoColor=FACC15" alt="Python focus"/>
+<img src="https://img.shields.io/badge/Exploring-Full%20Stack-312E81?style=flat-square&logo=javascript&logoColor=FDE047" alt="Full-stack learning"/>
+<img src="https://img.shields.io/badge/Practicing-Git%20%26%20Testing-0F172A?style=flat-square&logo=git&logoColor=FB7185" alt="Git and testing practice"/>
+
+</div>
+
+---
+
+<h3 align="center">📊 GitHub Activity & Language Insights</h3>
+
+<p align="center"><i>Live charts generated from public GitHub activity. They update as I learn and contribute.</i></p>
+
+<div align="center">
+
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=jaiahuja052-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=CBD5E1&ring_color=A78BFA&include_all_commits=true" alt="Jai's GitHub activity statistics" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiahuja052-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&langs_count=6" alt="Programming languages used across public repositories" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaiahuja052-ops&bg_color=0D1117&color=A78BFA&line=38BDF8&point=E9D5FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+
+</div>
+
+<details>
+<summary><b>📈 What do these charts show?</b></summary>
+
+GitHub activity charts are generated by third-party services from publicly available repository and contribution data. Language percentages reflect repository code usage, **not skill proficiency**. Some charts may temporarily be unavailable if a service hits its rate limit.
+
+</details>
+
+---
+
+<h3 align="center">🚀 Featured Work</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🍔 OrderOps
+**Order Failure, Cancellation & Refund Reconciliation**
+
+A Python project covering event processing, refund validation, duplicate-event prevention and order reconciliation.
+
+**What it covers**
+- Valid order-state transitions
+- Safe partial/full refund processing
+- Idempotent event handling
+- Amount and status reconciliation
+- **217 visible tests passed locally**
+
+<a href="https://github.com/jaiahuja052-ops/OrderOps-Open-Source-Evaluation"><img src="https://img.shields.io/badge/Explore-Repository-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="OrderOps repository"></a>
+
+[Contribution PR #21](https://github.com/sunitazenith07-lang/OrderOps-Open-Source-Evaluation/pull/21) · **Under review**
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 Web Development Journey
+**Frontend & Full-Stack Learning**
+
+A collection of learning projects and experiments in website layouts, styling and interactive web pages.
+
+**What I'm exploring**
+- HTML page structure
+- CSS styling and responsive layouts
+- JavaScript foundations
+- Git-based project workflow
+
+<a href="https://github.com/jaiahuja052-ops/My-portfolio"><img src="https://img.shields.io/badge/View-Portfolio-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="My portfolio repository"></a>
+
+[Full-Stack Repository](https://github.com/jaiahuja052-ops/full-stack)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌱 My current learning roadmap
+
+```text
+Python fundamentals → Problem solving → Reliable testing
+         ↓
+HTML + CSS → JavaScript → Full-stack projects
+         ↓
+      Build • Review • Improve
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:312E81,100:111827&height=65&text=KEEP%20LEARNING%20%E2%80%A2%20KEEP%20BUILDING&fontColor=FFFFFF&fontSize=18" alt="Keep learning, keep building" width="100%" />
+
+<sub>Made with curiosity and a lot of learning along the way.</sub>
 
 </div>
