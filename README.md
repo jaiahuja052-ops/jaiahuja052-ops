@@ -82,12 +82,12 @@ motto: Keep building.
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiahuja052-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&langs_count=6&border_radius=14" alt="Most used repository languages" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiahuja052-ops&theme=tokyonight" alt="Most used repository languages" />
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiahuja052-ops&theme=tokyonight&utcOffset=5.5" alt="Commit activity by time of day" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaiahuja052-ops&bg_color=0D1117&color=A78BFA&line=38BDF8&point=E9D5FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity chart" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiahuja052-ops&theme=tokyonight" alt="GitHub profile contribution activity chart" />
 
 </div>
 
